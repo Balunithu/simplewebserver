@@ -85,6 +85,7 @@ print("This is my webserver")
 server_address =('',8000)
 httpd = HTTPServer(server_address,MyServer)
 httpd.serve_forever()
+![Screenshot 2024-03-15 094559](https://github.com/Balunithu/simplewebserver/assets/161273477/dba2a455-38eb-4506-b05e-ca74e32c3802)
 
 ## OUTPUT:
 ![alt text](image.png)
